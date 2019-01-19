@@ -1,7 +1,14 @@
 # The Kundaha Project
 
-**WARNING:** Before we get started, please notice Kundaha is **NOT** a clinical software.
+**WARNING:** Before getting started, please notice Kundaha is **NOT** a clinical software.
 It is built for education and demonstration purposes **ONLY**.
+
+**CITATION:** If you want to download and use Kundaha for trials or tech report writing, we kindly ask you to include the following reference (see DOI and ACM DL link [here](https://doi.org/10.1145/3269206.3269220) ).
+
+* Santos, L. F. D; Blanco, G; Oliveira, D.; Traina, A.; Traina Jr., C; Bedo, M. V. N. *Exploring Diversified Similarity with Kundaha*. CIKM 2018
+Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM) 2018: 1903-1906. Torino, Italy, October 22-26, 2018.
+
+
 
 The *Kundaha Project* is an initiative for the inclusion of content-based retrieval methods as options for the comparison of diagnosed and undiagnosed medical images.
 In this repository, a demonstration tool for mammograms is available (see the *Minimum Requirements* section).
