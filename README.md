@@ -3,13 +3,6 @@
 **WARNING:** Before getting started, please notice Kundaha is **NOT** a clinical software.
 It is built for education and demonstration purposes **ONLY**.
 
-**CITATION:** If you want to download and use Kundaha for trials or tech report writing, we kindly ask you to include the following reference (see DOI and ACM DL link [here](https://doi.org/10.1145/3269206.3269220) ).
-
-* Santos, L. F. D; Blanco, G; Oliveira, D.; Traina, A.; Traina Jr., C; Bedo, M. V. N. *Exploring Diversified Similarity with Kundaha*. CIKM 2018
-Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM) 2018: 1903-1906. Torino, Italy, October 22-26, 2018.
-
-
-
 The *Kundaha Project* is an initiative for the inclusion of content-based retrieval methods as options for the comparison of diagnosed and undiagnosed medical images.
 In this repository, a demonstration tool for mammograms is available (see the *Minimum Requirements* section).
 The demonstration enables searching upon 2.892 regions of interest that were acquired from the [DDSM mammogram database](http://marathon.csee.usf.edu/Mammography/Database.html) and manually annotated by an expert following the [BI-RADS standard](https://www.acr.org/).
@@ -18,6 +11,13 @@ Our tool was implemented in C++11 standard by using the [QT Cross-Platform API 5
 
 Despite the efforts of the authors to release *Kundaha* without bugs, there may remain some issues.
 If you either find an issue or want new features to be added, please *report it*!
+
+**CITATION:** If you want to download and use Kundaha for trials or tech report writing, we kindly ask you to include the following reference.
+
+* Santos, L. F. D; Blanco, G; Oliveira, D.; Traina, A.; Traina Jr., C; Bedo, M. V. N.. *Exploring Diversified Similarity with Kundaha*. CIKM 2018
+Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM) 2018: 1903-1906. Torino, Italy, October 22-26, 2018.
+
+See DOI and ACM DL link [here](https://doi.org/10.1145/3269206.3269220).
 
 
 ### 1. Minimum Requirements
